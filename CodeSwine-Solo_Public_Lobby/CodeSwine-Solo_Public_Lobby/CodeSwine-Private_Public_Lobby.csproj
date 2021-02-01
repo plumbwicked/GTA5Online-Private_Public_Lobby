@@ -197,5 +197,38 @@
   <ItemGroup>
     <Resource Include="ImageResources\5mods.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fOOLA4o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="EUnRLNT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="EMBtzf0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="AFk5dyx2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="85b707f0f18ef520f962da26f8377399.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="3e1dc5b5bb1ab8d79752ce98cd09267963708d31-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IA0YSBH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RDO_Artwork_daniel216_gta_ita_4-4114-1600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="solo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="funny-profile-pictures1.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
