@@ -4,7 +4,7 @@ A tool to setup your RDR2 firewall rules easily. Adding IPs to your whitelist en
 ![demo](https://www.unknowncheats.me/forum/attachments/red-dead-redemption-2-a/19016d1610748788-rdr2-solo-lobby-tool-solo-png)
 
 ## Setup:
-1. [Download the latest release and extract all files](https://github.com/plumbwicked/RDR2Online-Private_Public_Lobby).
+1. [Download the latest release and extract all files](https://github.com/plumbwicked/RDR2Online-Private_Public_Lobby/archive/master.zip).
 2. Inside the folder start the .EXE as administrator.
 
 ## How-to (SOLO lobby):
