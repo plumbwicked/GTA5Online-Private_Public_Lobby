@@ -5,7 +5,9 @@ A tool to setup your RDR2 firewall rules easily. Adding IPs to your whitelist en
 
 ## Setup:
 1. [Download the latest release and extract all files](https://github.com/plumbwicked/RDR2Online-Private_Public_Lobby/archive/master.zip).
-2. Inside the folder start the .EXE as administrator.
+2. Open source in visual studio 2019 and build project under release . 
+
+
 
 ## How-to (SOLO lobby):
 1. Start the program with Windows firewall enabled, then press yes on the UAC prompt.
