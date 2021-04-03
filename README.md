@@ -2,7 +2,6 @@
 A tool to setup your RDR2 firewall rules easily. Adding IPs to your whitelist enables your friends to stay in your session.
 
 [img]https://i.imgur.com/a5gVtvX.png[/img]
-
 ## Setup:
 1. [Download the latest release and extract all files](https://github.com/plumbwicked/RDR2Online-Private_Public_Lobby/archive/master.zip).
 2. Open source in visual studio 2019 and build project under release . 
