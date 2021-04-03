@@ -1,7 +1,7 @@
 # RDR2Online-Private_Public_Lobby
 A tool to setup your RDR2 firewall rules easily. Adding IPs to your whitelist enables your friends to stay in your session.
 
-![demo](https://www.unknowncheats.me/forum/attachments/red-dead-redemption-2-a/19016d1610748788-rdr2-solo-lobby-tool-solo-png)
+![demo](https://imgur.com/a/AHNnHRx)
 
 ## Setup:
 1. [Download the latest release and extract all files](https://github.com/plumbwicked/RDR2Online-Private_Public_Lobby/archive/master.zip).
